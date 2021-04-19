@@ -3,6 +3,9 @@
 ![profile count](https://komarev.com/ghpvc/?username=Aldair47x&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/Aldair47x?label=follow&style=social)](https://github.com/Aldair47x)&nbsp;
 
+<br><br>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -24,20 +27,25 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&fontSize=90)
 
-![Aldair47x's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aldair47x&hide=contribs,prs&theme=react&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldair47x&layout=compact&theme=react)](https://github.com/Aldair47x/github-readme-stats)
+![Aldair47x's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aldair47x&hide=contribs,prs&include_all_commits=true&count_private=true&theme=react&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldair47x&layout=compact&theme=react)](https://github.com/Aldair47x/github-readme-stats)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
 
-## Authors
-
-* **Aldair Bernal** - *Full work* - [Aldair47x](https://github.com/Aldair47x)
-
-Follow me! – [aldair47x@Twitter](https://twitter.com/aldair47x) – aldair47x@gmail.com
-
-## Inspiration template
-
-* **AbhishekSinghDhadwal** - [AbhishekSinghDhadwal](https://github.com/AbhishekSinghDhadwal)
-* **majoledesma** - [majoledesma](https://github.com/majoledesma)
+<hr>
+<p align="center">
+  <i>You can connect with me here!</i>
+  <p align="center">
+    <a href="https://twitter.com/Aldair47x">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter" width="35" height="35">
+    </a>
+    <a href="https://www.linkedin.com/in/aldair-bernal-betancur-7aa70a136/">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35">
+    </a>
+  </p>
+</p>
 
 
 
